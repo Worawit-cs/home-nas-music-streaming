@@ -323,11 +323,11 @@ It provides a strong foundation for DevOps and security-related roles.
 * Jellyfin UI
 
 <p align="center">
-  <img src="images/to/jellyfin1.jp" width="400">
+  <img src="images/jellyfin1.jpg" width="400">
 </p>
 
 <p align="center">
-  <img src="images/to/jellyfin2.jp" width="400">
+  <img src="images/jellyfin2.jpg" width="400">
 </p>
 
 * Samba folders
