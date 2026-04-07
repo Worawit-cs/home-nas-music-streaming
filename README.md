@@ -322,7 +322,6 @@ It provides a strong foundation for DevOps and security-related roles.
 
 * Jellyfin UI
   ![Jellyfin](images/jellyfin1.png)
-  ---
   ![Jellyfin](images/jellyfin2.png)
 * Samba folders
 ```
