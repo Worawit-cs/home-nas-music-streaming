@@ -321,8 +321,14 @@ It provides a strong foundation for DevOps and security-related roles.
 (Add images here)
 
 * Jellyfin UI
-  ![Image1](images/jellyfin1.jpg)
-  ![Image2](images/jellyfin2.jpg)
+
+<p align="center">
+  <img src="images/jellyfin1.jp" width="400">
+</p>
+
+<p align="center">
+  <img src="images/jellyfin2.jp" width="400">
+</p>
 * Samba folders
 ```
 /home/wick/share/
