@@ -329,6 +329,7 @@ It provides a strong foundation for DevOps and security-related roles.
 <p align="center">
   <img src="images/jellyfin2.jp" width="400">
 </p>
+
 * Samba folders
 ```
 /home/wick/share/
