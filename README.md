@@ -121,18 +121,18 @@ Example configuration:
    create mask = 0660
    directory mask = 0770
 
-[wick]
-   path = /home/wick/share/wick
+[owner]
+   path = /home/wick/share/owner
    browseable = no
    valid users = wick
    read only = no
    create mask = 0660
    directory mask = 0770
 
-[safeena]
-   path = /home/wick/share/safeena
+[friend1]
+   path = /home/wick/share/friend1
    browseable = no
-   valid users = safeena wick(optional: when you want to be super user for manage your server)
+   valid users = friend1 owner(optional: when you want to be super user for manage your server)
    read only = no
    create mask = 0660
    directory mask = 0770
